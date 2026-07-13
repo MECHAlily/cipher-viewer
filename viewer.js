@@ -254,6 +254,9 @@ camera.position.z = 800;
 const renderer =
 new THREE.WebGLRenderer();
 
+renderer.setPixelRatio(
+  window.devicePixelRatio
+);
 
 renderer.setSize(
   window.innerWidth,
