@@ -17,7 +17,7 @@ let GRID_SIZE;
 let GRID_SPACING;
 let GRID_CENTER;
 let sculptureGroup;
-
+let lineMaterial;
 let targetRotationX = 0;
 let targetRotationY = 0;
 let velocityX = 0;
@@ -870,7 +870,7 @@ lineGeometry.setColors(
 
 // });
 
-const lineMaterial =
+lineMaterial =
 new LineMaterial({
 
   linewidth: 1.5,
@@ -982,5 +982,39 @@ function animate() {
 
 }
 
+
+window.addEventListener(
+  "resize",
+  () => {
+
+    camera.aspect =
+      window.innerWidth /
+      window.innerHeight;
+
+    camera.updateProjectionMatrix();
+
+
+    renderer.setSize(
+      window.innerWidth,
+      window.innerHeight
+    );
+
+
+    renderer.setPixelRatio(
+      window.devicePixelRatio
+    );
+
+
+    if (lineMaterial) {
+
+      lineMaterial.resolution.set(
+        window.innerWidth,
+        window.innerHeight
+      );
+
+    }
+
+  }
+);
 
 animate();
