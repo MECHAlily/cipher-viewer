@@ -886,9 +886,13 @@ new LineMaterial({
 });
 
 
+const size = new THREE.Vector2();
+
+renderer.getSize(size);
+
 lineMaterial.resolution.set(
-  window.innerWidth,
-  window.innerHeight
+  size.x,
+  size.y
 );
 
 
@@ -1007,10 +1011,14 @@ window.addEventListener(
 
     if (lineMaterial) {
 
-      lineMaterial.resolution.set(
-        window.innerWidth,
-        window.innerHeight
-      );
+      const size = new THREE.Vector2();
+
+renderer.getSize(size);
+
+lineMaterial.resolution.set(
+  size.x,
+  size.y
+);
 
     }
 
