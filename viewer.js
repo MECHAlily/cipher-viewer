@@ -873,7 +873,7 @@ lineGeometry.setColors(
 lineMaterial =
 new LineMaterial({
 
-  linewidth: 1.5,
+  linewidth: 1.0,
 
   vertexColors: true,
 
