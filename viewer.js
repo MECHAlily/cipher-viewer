@@ -870,7 +870,7 @@ lineGeometry.setColors(
 const lineMaterial =
 new LineMaterial({
 
-  linewidth: 1.5,
+  linewidth: 0.5,
 
   vertexColors: true,
 
