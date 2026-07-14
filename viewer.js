@@ -604,7 +604,7 @@ case "artifact":
 
     transparent: true,
 
-    opacity: 0.4,
+    opacity: 0.5,
 
     roughness: 0.25,
 
