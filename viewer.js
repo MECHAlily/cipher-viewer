@@ -176,7 +176,7 @@ new THREE.PointsMaterial({
 
   transparent: true,
 
-  opacity: 0.20
+  opacity: 0.10
 
 });
 
