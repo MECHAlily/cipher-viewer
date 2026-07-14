@@ -1,0 +1,7733 @@
+{
+  "date": "2026-07-13",
+  "seed": "ABANDONED",
+  "artist": "MECHAlily",
+  "words": [
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 7,
+          "center": 0
+        },
+        {
+          "a": 7,
+          "b": 8,
+          "center": 0
+        },
+        {
+          "a": 8,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "A",
+          "occurrence": 15,
+          "position": {
+            "x": 20,
+            "y": 6,
+            "z": 0
+          }
+        },
+        {
+          "letter": "B",
+          "occurrence": 53,
+          "position": {
+            "x": 22,
+            "y": 23,
+            "z": 1
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 93,
+          "position": {
+            "x": 20,
+            "y": 17,
+            "z": 2
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 119,
+          "position": {
+            "x": 5,
+            "y": 25,
+            "z": 3
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 168,
+          "position": {
+            "x": 16,
+            "y": 0,
+            "z": 5
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 196,
+          "position": {
+            "x": 14,
+            "y": 27,
+            "z": 5
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 236,
+          "position": {
+            "x": 5,
+            "y": 16,
+            "z": 7
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 284,
+          "position": {
+            "x": 28,
+            "y": 25,
+            "z": 8
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 324,
+          "position": {
+            "x": 29,
+            "y": 23,
+            "z": 9
+          }
+        }
+      ],
+      "color": {
+        "r": 120,
+        "b": 7,
+        "g": 191
+      },
+      "center": {
+        "x": 40,
+        "y": 45,
+        "z": -158.3333282470703
+      },
+      "text": "ABANDONED",
+      "renderType": "surface",
+      "opacity": 162.85714721679688
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "R",
+          "occurrence": 477,
+          "position": {
+            "x": 17,
+            "y": 1,
+            "z": 14
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 519,
+          "position": {
+            "x": 16,
+            "y": 4,
+            "z": 15
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 558,
+          "position": {
+            "x": 7,
+            "y": 3,
+            "z": 16
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 592,
+          "position": {
+            "x": 7,
+            "y": 4,
+            "z": 18
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 632,
+          "position": {
+            "x": 2,
+            "y": 1,
+            "z": 19
+          }
+        }
+      ],
+      "color": {
+        "r": 18,
+        "b": 234,
+        "g": 83
+      },
+      "center": {
+        "x": -78,
+        "y": -186,
+        "z": 21
+      },
+      "text": "ROOTS",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "C",
+          "occurrence": 971,
+          "position": {
+            "x": 8,
+            "y": 15,
+            "z": 29
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 12,
+          "position": {
+            "x": 4,
+            "y": 6,
+            "z": 0
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 38,
+          "position": {
+            "x": 0,
+            "y": 9,
+            "z": 1
+          }
+        }
+      ],
+      "color": {
+        "r": 23,
+        "b": 234,
+        "g": 185
+      },
+      "center": {
+        "x": -165,
+        "y": -75,
+        "z": -75
+      },
+      "text": "CAN",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 434,
+          "position": {
+            "x": 18,
+            "y": 25,
+            "z": 12
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 472,
+          "position": {
+            "x": 8,
+            "y": 24,
+            "z": 14
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 522,
+          "position": {
+            "x": 15,
+            "y": 14,
+            "z": 15
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 558,
+          "position": {
+            "x": 3,
+            "y": 18,
+            "z": 17
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 597,
+          "position": {
+            "x": 3,
+            "y": 20,
+            "z": 18
+          }
+        }
+      ],
+      "color": {
+        "r": 211,
+        "b": 132,
+        "g": 42
+      },
+      "center": {
+        "x": -84,
+        "y": 78,
+        "z": 3
+      },
+      "text": "STILL",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "P",
+          "occurrence": 916,
+          "position": {
+            "x": 25,
+            "y": 9,
+            "z": 27
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 953,
+          "position": {
+            "x": 20,
+            "y": 11,
+            "z": 28
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 995,
+          "position": {
+            "x": 6,
+            "y": 22,
+            "z": 29
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 45,
+          "position": {
+            "x": 3,
+            "y": 10,
+            "z": 1
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 67,
+          "position": {
+            "x": 3,
+            "y": 24,
+            "z": 1
+          }
+        },
+        {
+          "letter": "C",
+          "occurrence": 124,
+          "position": {
+            "x": 0,
+            "y": 11,
+            "z": 3
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 161,
+          "position": {
+            "x": 20,
+            "y": 28,
+            "z": 4
+          }
+        }
+      ],
+      "color": {
+        "r": 60,
+        "b": 234,
+        "g": 179
+      },
+      "center": {
+        "x": -60,
+        "y": 21.428571701049805,
+        "z": -25.714284896850586
+      },
+      "text": "PRODUCE",
+      "renderType": "surface",
+      "opacity": 132.14285278320312
+    },
+    {
+      "triangles": [{
+        "a": 0,
+        "b": 0,
+        "center": 0
+      }],
+      "characters": [{
+        "letter": "A",
+        "occurrence": 410,
+        "position": {
+          "x": 1,
+          "y": 12,
+          "z": 12
+        }
+      }],
+      "color": {
+        "r": 218,
+        "b": 232,
+        "g": 64
+      },
+      "center": {
+        "x": -210,
+        "y": -45,
+        "z": -45
+      },
+      "text": "A",
+      "renderType": "sphere",
+      "opacity": 40
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "G",
+          "occurrence": 883,
+          "position": {
+            "x": 6,
+            "y": 3,
+            "z": 26
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 928,
+          "position": {
+            "x": 25,
+            "y": 8,
+            "z": 28
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 950,
+          "position": {
+            "x": 21,
+            "y": 8,
+            "z": 28
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 3,
+          "position": {
+            "x": 21,
+            "y": 5,
+            "z": 0
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 41,
+          "position": {
+            "x": 12,
+            "y": 6,
+            "z": 1
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 71,
+          "position": {
+            "x": 27,
+            "y": 2,
+            "z": 2
+          }
+        }
+      ],
+      "color": {
+        "r": 173,
+        "b": 38,
+        "g": 193
+      },
+      "center": {
+        "x": 55,
+        "y": -145,
+        "z": -12.5
+      },
+      "text": "GARDEN",
+      "renderType": "surface",
+      "opacity": 116.78571319580078
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 7,
+          "center": 0
+        },
+        {
+          "a": 7,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "C",
+          "occurrence": 366,
+          "position": {
+            "x": 14,
+            "y": 0,
+            "z": 10
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 390,
+          "position": {
+            "x": 7,
+            "y": 20,
+            "z": 11
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 446,
+          "position": {
+            "x": 21,
+            "y": 2,
+            "z": 13
+          }
+        },
+        {
+          "letter": "C",
+          "occurrence": 483,
+          "position": {
+            "x": 16,
+            "y": 13,
+            "z": 13
+          }
+        },
+        {
+          "letter": "K",
+          "occurrence": 514,
+          "position": {
+            "x": 22,
+            "y": 11,
+            "z": 16
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 555,
+          "position": {
+            "x": 21,
+            "y": 14,
+            "z": 16
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 589,
+          "position": {
+            "x": 28,
+            "y": 0,
+            "z": 18
+          }
+        },
+        {
+          "letter": "G",
+          "occurrence": 635,
+          "position": {
+            "x": 20,
+            "y": 28,
+            "z": 18
+          }
+        }
+      ],
+      "color": {
+        "r": 234,
+        "b": 65,
+        "g": 71
+      },
+      "center": {
+        "x": 54.375,
+        "y": -60,
+        "z": -9.375
+      },
+      "text": "CRACKING",
+      "renderType": "surface",
+      "opacity": 147.5
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 828,
+          "position": {
+            "x": 10,
+            "y": 3,
+            "z": 25
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 879,
+          "position": {
+            "x": 4,
+            "y": 6,
+            "z": 26
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 908,
+          "position": {
+            "x": 21,
+            "y": 29,
+            "z": 26
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 950,
+          "position": {
+            "x": 23,
+            "y": 6,
+            "z": 28
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 983,
+          "position": {
+            "x": 15,
+            "y": 16,
+            "z": 29
+          }
+        },
+        {
+          "letter": "G",
+          "occurrence": 36,
+          "position": {
+            "x": 27,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 74,
+          "position": {
+            "x": 6,
+            "y": 13,
+            "z": 2
+          }
+        }
+      ],
+      "color": {
+        "r": 3,
+        "b": 144,
+        "g": 191
+      },
+      "center": {
+        "x": 2.142857074737549,
+        "y": -68.57142639160156,
+        "z": 68.57142639160156
+      },
+      "text": "THROUGH",
+      "renderType": "surface",
+      "opacity": 132.14285278320312
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "A",
+          "occurrence": 326,
+          "position": {
+            "x": 2,
+            "y": 22,
+            "z": 9
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 347,
+          "position": {
+            "x": 24,
+            "y": 4,
+            "z": 10
+          }
+        },
+        {
+          "letter": "P",
+          "occurrence": 389,
+          "position": {
+            "x": 2,
+            "y": 21,
+            "z": 10
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 436,
+          "position": {
+            "x": 28,
+            "y": 2,
+            "z": 13
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 482,
+          "position": {
+            "x": 21,
+            "y": 10,
+            "z": 14
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 510,
+          "position": {
+            "x": 14,
+            "y": 8,
+            "z": 16
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 541,
+          "position": {
+            "x": 15,
+            "y": 24,
+            "z": 16
+          }
+        }
+      ],
+      "color": {
+        "r": 21,
+        "b": 211,
+        "g": 205
+      },
+      "center": {
+        "x": 2.142857074737549,
+        "y": -30,
+        "z": -36.42856979370117
+      },
+      "text": "ASPHALT",
+      "renderType": "surface",
+      "opacity": 132.14285278320312
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "A",
+          "occurrence": 688,
+          "position": {
+            "x": 14,
+            "y": 17,
+            "z": 20
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 662,
+          "position": {
+            "x": 17,
+            "y": 5,
+            "z": 20
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 613,
+          "position": {
+            "x": 20,
+            "y": 3,
+            "z": 18
+          }
+        }
+      ],
+      "color": {
+        "r": 214,
+        "b": 51,
+        "g": 119
+      },
+      "center": {
+        "x": 30,
+        "y": -100,
+        "z": 65
+      },
+      "text": "AND",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 227,
+          "position": {
+            "x": 29,
+            "y": 10,
+            "z": 6
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 170,
+          "position": {
+            "x": 13,
+            "y": 6,
+            "z": 5
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 142,
+          "position": {
+            "x": 21,
+            "y": 0,
+            "z": 5
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 111,
+          "position": {
+            "x": 7,
+            "y": 7,
+            "z": 3
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 57,
+          "position": {
+            "x": 23,
+            "y": 18,
+            "z": 1
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 17,
+          "position": {
+            "x": 15,
+            "y": 19,
+            "z": 0
+          }
+        }
+      ],
+      "color": {
+        "r": 0,
+        "b": 255,
+        "g": 85
+      },
+      "center": {
+        "x": 45,
+        "y": -75,
+        "z": -175
+      },
+      "text": "SALTED",
+      "renderType": "surface",
+      "opacity": 116.78571319580078
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 748,
+          "position": {
+            "x": 12,
+            "y": 5,
+            "z": 22
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 704,
+          "position": {
+            "x": 22,
+            "y": 13,
+            "z": 21
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 666,
+          "position": {
+            "x": 11,
+            "y": 10,
+            "z": 19
+          }
+        },
+        {
+          "letter": "W",
+          "occurrence": 635,
+          "position": {
+            "x": 22,
+            "y": 14,
+            "z": 19
+          }
+        }
+      ],
+      "color": {
+        "r": 14,
+        "b": 186,
+        "g": 234
+      },
+      "center": {
+        "x": 26.25,
+        "y": -67.5,
+        "z": 78.75
+      },
+      "text": "SNOW",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 270,
+          "position": {
+            "x": 26,
+            "y": 1,
+            "z": 8
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 219,
+          "position": {
+            "x": 18,
+            "y": 1,
+            "z": 7
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 177,
+          "position": {
+            "x": 18,
+            "y": 15,
+            "z": 5
+          }
+        },
+        {
+          "letter": "Y",
+          "occurrence": 158,
+          "position": {
+            "x": 24,
+            "y": 26,
+            "z": 4
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 106,
+          "position": {
+            "x": 2,
+            "y": 21,
+            "z": 3
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 67,
+          "position": {
+            "x": 3,
+            "y": 11,
+            "z": 2
+          }
+        }
+      ],
+      "color": {
+        "r": 9,
+        "b": 234,
+        "g": 50
+      },
+      "center": {
+        "x": 2.5,
+        "y": -37.5,
+        "z": -152.5
+      },
+      "text": "THEYLL",
+      "renderType": "surface",
+      "opacity": 116.78571319580078
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "G",
+          "occurrence": 778,
+          "position": {
+            "x": 23,
+            "y": 19,
+            "z": 22
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 750,
+          "position": {
+            "x": 11,
+            "y": 15,
+            "z": 22
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 708,
+          "position": {
+            "x": 11,
+            "y": 10,
+            "z": 20
+          }
+        },
+        {
+          "letter": "W",
+          "occurrence": 677,
+          "position": {
+            "x": 17,
+            "y": 9,
+            "z": 20
+          }
+        }
+      ],
+      "color": {
+        "r": 193,
+        "b": 27,
+        "g": 177
+      },
+      "center": {
+        "x": 7.5,
+        "y": -26.25,
+        "z": 90
+      },
+      "text": "GROW",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 312,
+          "position": {
+            "x": 18,
+            "y": 12,
+            "z": 9
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 254,
+          "position": {
+            "x": 11,
+            "y": 16,
+            "z": 7
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 226,
+          "position": {
+            "x": 21,
+            "y": 17,
+            "z": 7
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 187,
+          "position": {
+            "x": 8,
+            "y": 8,
+            "z": 6
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 141,
+          "position": {
+            "x": 8,
+            "y": 7,
+            "z": 4
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 115,
+          "position": {
+            "x": 17,
+            "y": 11,
+            "z": 3
+          }
+        }
+      ],
+      "color": {
+        "r": 255,
+        "b": 200,
+        "g": 35
+      },
+      "center": {
+        "x": -17.5,
+        "y": -47.5,
+        "z": -135
+      },
+      "text": "TALLER",
+      "renderType": "surface",
+      "opacity": 116.78571319580078
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 833,
+          "position": {
+            "x": 22,
+            "y": 8,
+            "z": 25
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 782,
+          "position": {
+            "x": 17,
+            "y": 6,
+            "z": 23
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 736,
+          "position": {
+            "x": 0,
+            "y": 7,
+            "z": 22
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 710,
+          "position": {
+            "x": 15,
+            "y": 15,
+            "z": 21
+          }
+        }
+      ],
+      "color": {
+        "r": 0,
+        "b": 193,
+        "g": 106
+      },
+      "center": {
+        "x": -22.5,
+        "y": -90,
+        "z": 116.25
+      },
+      "text": "THAN",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 354,
+          "position": {
+            "x": 27,
+            "y": 26,
+            "z": 10
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 303,
+          "position": {
+            "x": 27,
+            "y": 10,
+            "z": 9
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 261,
+          "position": {
+            "x": 10,
+            "y": 6,
+            "z": 8
+          }
+        }
+      ],
+      "color": {
+        "r": 211,
+        "b": 214,
+        "g": 55
+      },
+      "center": {
+        "x": 95,
+        "y": -15,
+        "z": -90
+      },
+      "text": "THE",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 7,
+          "center": 0
+        },
+        {
+          "a": 7,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "M",
+          "occurrence": 868,
+          "position": {
+            "x": 16,
+            "y": 4,
+            "z": 26
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 831,
+          "position": {
+            "x": 22,
+            "y": 19,
+            "z": 24
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 798,
+          "position": {
+            "x": 28,
+            "y": 23,
+            "z": 23
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 752,
+          "position": {
+            "x": 9,
+            "y": 19,
+            "z": 22
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 719,
+          "position": {
+            "x": 23,
+            "y": 9,
+            "z": 22
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 661,
+          "position": {
+            "x": 15,
+            "y": 25,
+            "z": 19
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 630,
+          "position": {
+            "x": 23,
+            "y": 22,
+            "z": 18
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 596,
+          "position": {
+            "x": 10,
+            "y": 6,
+            "z": 18
+          }
+        }
+      ],
+      "color": {
+        "r": 125,
+        "b": 19,
+        "g": 191
+      },
+      "center": {
+        "x": 48.75,
+        "y": 13.125,
+        "z": 97.5
+      },
+      "text": "MOUNTAIN",
+      "renderType": "surface",
+      "opacity": 147.5
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 396,
+          "position": {
+            "x": 25,
+            "y": 9,
+            "z": 12
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 352,
+          "position": {
+            "x": 21,
+            "y": 15,
+            "z": 10
+          }
+        },
+        {
+          "letter": "P",
+          "occurrence": 314,
+          "position": {
+            "x": 0,
+            "y": 18,
+            "z": 8
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 278,
+          "position": {
+            "x": 3,
+            "y": 23,
+            "z": 7
+          }
+        }
+      ],
+      "color": {
+        "r": 26,
+        "b": 191,
+        "g": 11
+      },
+      "center": {
+        "x": -41.25,
+        "y": 18.75,
+        "z": -86.25
+      },
+      "text": "TOPS",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 858,
+          "position": {
+            "x": 3,
+            "y": 29,
+            "z": 25
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 800,
+          "position": {
+            "x": 18,
+            "y": 4,
+            "z": 24
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 772,
+          "position": {
+            "x": 26,
+            "y": 23,
+            "z": 23
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 733,
+          "position": {
+            "x": 6,
+            "y": 21,
+            "z": 22
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 687,
+          "position": {
+            "x": 8,
+            "y": 19,
+            "z": 20
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 661,
+          "position": {
+            "x": 29,
+            "y": 22,
+            "z": 19
+          }
+        }
+      ],
+      "color": {
+        "r": 255,
+        "b": 197,
+        "g": 40
+      },
+      "center": {
+        "x": 0,
+        "y": 70,
+        "z": 107.5
+      },
+      "text": "TALLER",
+      "renderType": "surface",
+      "opacity": 116.78571319580078
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 379,
+          "position": {
+            "x": 19,
+            "y": 19,
+            "z": 11
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 328,
+          "position": {
+            "x": 14,
+            "y": 5,
+            "z": 10
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 282,
+          "position": {
+            "x": 20,
+            "y": 12,
+            "z": 8
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 256,
+          "position": {
+            "x": 16,
+            "y": 0,
+            "z": 8
+          }
+        }
+      ],
+      "color": {
+        "r": 130,
+        "b": 234,
+        "g": 51
+      },
+      "center": {
+        "x": 33.75,
+        "y": -90,
+        "z": -86.25
+      },
+      "text": "THAN",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 900,
+          "position": {
+            "x": 9,
+            "y": 2,
+            "z": 27
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 849,
+          "position": {
+            "x": 23,
+            "y": 12,
+            "z": 25
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 807,
+          "position": {
+            "x": 3,
+            "y": 10,
+            "z": 24
+          }
+        }
+      ],
+      "color": {
+        "r": 193,
+        "b": 214,
+        "g": 8
+      },
+      "center": {
+        "x": -50,
+        "y": -105,
+        "z": 155
+      },
+      "text": "THE",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 7,
+          "center": 0
+        },
+        {
+          "a": 7,
+          "b": 8,
+          "center": 0
+        },
+        {
+          "a": 8,
+          "b": 9,
+          "center": 0
+        },
+        {
+          "a": 9,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 420,
+          "position": {
+            "x": 0,
+            "y": 8,
+            "z": 12
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 363,
+          "position": {
+            "x": 7,
+            "y": 3,
+            "z": 11
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 343,
+          "position": {
+            "x": 15,
+            "y": 12,
+            "z": 10
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 289,
+          "position": {
+            "x": 17,
+            "y": 3,
+            "z": 9
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 257,
+          "position": {
+            "x": 13,
+            "y": 13,
+            "z": 8
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 218,
+          "position": {
+            "x": 26,
+            "y": 8,
+            "z": 7
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 176,
+          "position": {
+            "x": 1,
+            "y": 26,
+            "z": 5
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 148,
+          "position": {
+            "x": 5,
+            "y": 6,
+            "z": 4
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 94,
+          "position": {
+            "x": 13,
+            "y": 23,
+            "z": 2
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 69,
+          "position": {
+            "x": 12,
+            "y": 5,
+            "z": 2
+          }
+        }
+      ],
+      "color": {
+        "r": 60,
+        "b": 146,
+        "g": 232
+      },
+      "center": {
+        "x": -61.5,
+        "y": -64.5,
+        "z": -120
+      },
+      "text": "SATELLITES",
+      "renderType": "surface",
+      "opacity": 178.2142791748047
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 942,
+          "position": {
+            "x": 4,
+            "y": 0,
+            "z": 28
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 891,
+          "position": {
+            "x": 22,
+            "y": 16,
+            "z": 26
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 845,
+          "position": {
+            "x": 3,
+            "y": 26,
+            "z": 25
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 825,
+          "position": {
+            "x": 2,
+            "y": 0,
+            "z": 25
+          }
+        }
+      ],
+      "color": {
+        "r": 162,
+        "b": 193,
+        "g": 23
+      },
+      "center": {
+        "x": -108.75,
+        "y": -67.5,
+        "z": 165
+      },
+      "text": "THAT",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "B",
+          "occurrence": 445,
+          "position": {
+            "x": 24,
+            "y": 3,
+            "z": 13
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 416,
+          "position": {
+            "x": 17,
+            "y": 1,
+            "z": 13
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 366,
+          "position": {
+            "x": 12,
+            "y": 6,
+            "z": 11
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 340,
+          "position": {
+            "x": 2,
+            "y": 19,
+            "z": 10
+          }
+        },
+        {
+          "letter": "K",
+          "occurrence": 298,
+          "position": {
+            "x": 5,
+            "y": 9,
+            "z": 9
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 253,
+          "position": {
+            "x": 6,
+            "y": 29,
+            "z": 7
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 229,
+          "position": {
+            "x": 7,
+            "y": 18,
+            "z": 6
+          }
+        }
+      ],
+      "color": {
+        "r": 104,
+        "b": 191,
+        "g": 22
+      },
+      "center": {
+        "x": -68.57142639160156,
+        "y": -42.85714340209961,
+        "z": -77.14286041259766
+      },
+      "text": "BLANKET",
+      "renderType": "surface",
+      "opacity": 132.14285278320312
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 984,
+          "position": {
+            "x": 23,
+            "y": 9,
+            "z": 29
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 933,
+          "position": {
+            "x": 13,
+            "y": 2,
+            "z": 28
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 891,
+          "position": {
+            "x": 3,
+            "y": 16,
+            "z": 26
+          }
+        }
+      ],
+      "color": {
+        "r": 214,
+        "b": 56,
+        "g": 12
+      },
+      "center": {
+        "x": -30,
+        "y": -90,
+        "z": 190
+      },
+      "text": "THE",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "E",
+          "occurrence": 490,
+          "position": {
+            "x": 18,
+            "y": 22,
+            "z": 14
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 447,
+          "position": {
+            "x": 23,
+            "y": 4,
+            "z": 13
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 425,
+          "position": {
+            "x": 21,
+            "y": 26,
+            "z": 12
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 388,
+          "position": {
+            "x": 25,
+            "y": 2,
+            "z": 12
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 337,
+          "position": {
+            "x": 18,
+            "y": 13,
+            "z": 10
+          }
+        }
+      ],
+      "color": {
+        "r": 86,
+        "b": 255,
+        "g": 25
+      },
+      "center": {
+        "x": 90,
+        "y": -24,
+        "z": -42
+      },
+      "text": "EARTH",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "A",
+          "occurrence": 7,
+          "position": {
+            "x": 15,
+            "y": 3,
+            "z": 0
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 981,
+          "position": {
+            "x": 2,
+            "y": 10,
+            "z": 29
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 932,
+          "position": {
+            "x": 20,
+            "y": 20,
+            "z": 27
+          }
+        }
+      ],
+      "color": {
+        "r": 0,
+        "b": 232,
+        "g": 7
+      },
+      "center": {
+        "x": -40,
+        "y": -60,
+        "z": 55
+      },
+      "text": "AND",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 547,
+          "position": {
+            "x": 12,
+            "y": 0,
+            "z": 17
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 496,
+          "position": {
+            "x": 10,
+            "y": 17,
+            "z": 14
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 454,
+          "position": {
+            "x": 22,
+            "y": 20,
+            "z": 13
+          }
+        }
+      ],
+      "color": {
+        "r": 234,
+        "b": 182,
+        "g": 60
+      },
+      "center": {
+        "x": -5,
+        "y": -40,
+        "z": -5
+      },
+      "text": "THE",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 7,
+          "center": 0
+        },
+        {
+          "a": 7,
+          "b": 8,
+          "center": 0
+        },
+        {
+          "a": 8,
+          "b": 9,
+          "center": 0
+        },
+        {
+          "a": 9,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "H",
+          "occurrence": 997,
+          "position": {
+            "x": 10,
+            "y": 27,
+            "z": 29
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 955,
+          "position": {
+            "x": 7,
+            "y": 25,
+            "z": 28
+          }
+        },
+        {
+          "letter": "G",
+          "occurrence": 918,
+          "position": {
+            "x": 27,
+            "y": 29,
+            "z": 26
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 877,
+          "position": {
+            "x": 27,
+            "y": 2,
+            "z": 26
+          }
+        },
+        {
+          "letter": "M",
+          "occurrence": 846,
+          "position": {
+            "x": 25,
+            "y": 17,
+            "z": 25
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 809,
+          "position": {
+            "x": 12,
+            "y": 28,
+            "z": 23
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 769,
+          "position": {
+            "x": 3,
+            "y": 2,
+            "z": 23
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 725,
+          "position": {
+            "x": 4,
+            "y": 16,
+            "z": 21
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 682,
+          "position": {
+            "x": 21,
+            "y": 14,
+            "z": 20
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 657,
+          "position": {
+            "x": 4,
+            "y": 26,
+            "z": 19
+          }
+        }
+      ],
+      "color": {
+        "r": 58,
+        "b": 153,
+        "g": 193
+      },
+      "center": {
+        "x": -15,
+        "y": 54,
+        "z": 135
+      },
+      "text": "HEGEMONIES",
+      "renderType": "surface",
+      "opacity": 178.2142791748047
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "Y",
+          "occurrence": 535,
+          "position": {
+            "x": 24,
+            "y": 24,
+            "z": 16
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 486,
+          "position": {
+            "x": 28,
+            "y": 9,
+            "z": 14
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 453,
+          "position": {
+            "x": 3,
+            "y": 8,
+            "z": 13
+          }
+        },
+        {
+          "letter": "V",
+          "occurrence": 415,
+          "position": {
+            "x": 9,
+            "y": 3,
+            "z": 12
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 359,
+          "position": {
+            "x": 25,
+            "y": 29,
+            "z": 10
+          }
+        }
+      ],
+      "color": {
+        "r": 30,
+        "b": 255,
+        "g": 135
+      },
+      "center": {
+        "x": 42,
+        "y": -6,
+        "z": -30
+      },
+      "text": "YOUVE",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "L",
+          "occurrence": 43,
+          "position": {
+            "x": 6,
+            "y": 17,
+            "z": 1
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 997,
+          "position": {
+            "x": 22,
+            "y": 28,
+            "z": 29
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 954,
+          "position": {
+            "x": 5,
+            "y": 1,
+            "z": 29
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 932,
+          "position": {
+            "x": 28,
+            "y": 20,
+            "z": 27
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 889,
+          "position": {
+            "x": 20,
+            "y": 19,
+            "z": 26
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 841,
+          "position": {
+            "x": 9,
+            "y": 13,
+            "z": 25
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 801,
+          "position": {
+            "x": 26,
+            "y": 20,
+            "z": 23
+          }
+        }
+      ],
+      "color": {
+        "r": 96,
+        "b": 75,
+        "g": 252
+      },
+      "center": {
+        "x": 23.571428298950195,
+        "y": 27.85714340209961,
+        "z": 117.85713958740234
+      },
+      "text": "LEARNED",
+      "renderType": "surface",
+      "opacity": 132.14285278320312
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 572,
+          "position": {
+            "x": 26,
+            "y": 18,
+            "z": 17
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 528,
+          "position": {
+            "x": 22,
+            "y": 14,
+            "z": 15
+          }
+        }
+      ],
+      "color": {
+        "r": 56,
+        "b": 132,
+        "g": 255
+      },
+      "center": {
+        "x": 135,
+        "y": 15,
+        "z": 15
+      },
+      "text": "TO",
+      "renderType": "line",
+      "opacity": 55.35714340209961
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "R",
+          "occurrence": 91,
+          "position": {
+            "x": 7,
+            "y": 16,
+            "z": 2
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 39,
+          "position": {
+            "x": 16,
+            "y": 5,
+            "z": 1
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 14,
+          "position": {
+            "x": 23,
+            "y": 17,
+            "z": 0
+          }
+        },
+        {
+          "letter": "P",
+          "occurrence": 972,
+          "position": {
+            "x": 10,
+            "y": 26,
+            "z": 28
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 922,
+          "position": {
+            "x": 18,
+            "y": 18,
+            "z": 27
+          }
+        },
+        {
+          "letter": "C",
+          "occurrence": 881,
+          "position": {
+            "x": 15,
+            "y": 3,
+            "z": 27
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 859,
+          "position": {
+            "x": 1,
+            "y": 1,
+            "z": 26
+          }
+        }
+      ],
+      "color": {
+        "r": 214,
+        "b": 42,
+        "g": 82
+      },
+      "center": {
+        "x": -32.14285659790039,
+        "y": -40.71428680419922,
+        "z": 12.857142448425293
+      },
+      "text": "RESPECT",
+      "renderType": "surface",
+      "opacity": 132.14285278320312
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "P",
+          "occurrence": 610,
+          "position": {
+            "x": 4,
+            "y": 29,
+            "z": 17
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 567,
+          "position": {
+            "x": 6,
+            "y": 27,
+            "z": 17
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 537,
+          "position": {
+            "x": 10,
+            "y": 24,
+            "z": 15
+          }
+        },
+        {
+          "letter": "C",
+          "occurrence": 480,
+          "position": {
+            "x": 13,
+            "y": 8,
+            "z": 13
+          }
+        },
+        {
+          "letter": "K",
+          "occurrence": 449,
+          "position": {
+            "x": 9,
+            "y": 13,
+            "z": 14
+          }
+        }
+      ],
+      "color": {
+        "r": 183,
+        "b": 234,
+        "g": 14
+      },
+      "center": {
+        "x": -99,
+        "y": 78,
+        "z": 3
+      },
+      "text": "PLUCK",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 135,
+          "position": {
+            "x": 26,
+            "y": 29,
+            "z": 3
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 84,
+          "position": {
+            "x": 16,
+            "y": 23,
+            "z": 2
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 42,
+          "position": {
+            "x": 2,
+            "y": 7,
+            "z": 1
+          }
+        }
+      ],
+      "color": {
+        "r": 252,
+        "b": 50,
+        "g": 191
+      },
+      "center": {
+        "x": -5,
+        "y": 70,
+        "z": -195
+      },
+      "text": "THE",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 655,
+          "position": {
+            "x": 21,
+            "y": 23,
+            "z": 19
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 617,
+          "position": {
+            "x": 12,
+            "y": 24,
+            "z": 18
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 559,
+          "position": {
+            "x": 8,
+            "y": 27,
+            "z": 16
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 537,
+          "position": {
+            "x": 10,
+            "y": 8,
+            "z": 16
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 499,
+          "position": {
+            "x": 22,
+            "y": 21,
+            "z": 14
+          }
+        }
+      ],
+      "color": {
+        "r": 27,
+        "b": 68,
+        "g": 193
+      },
+      "center": {
+        "x": -6,
+        "y": 84,
+        "z": 24
+      },
+      "text": "STARS",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "L",
+          "occurrence": 169,
+          "position": {
+            "x": 23,
+            "y": 23,
+            "z": 5
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 127,
+          "position": {
+            "x": 1,
+            "y": 14,
+            "z": 4
+          }
+        },
+        {
+          "letter": "K",
+          "occurrence": 90,
+          "position": {
+            "x": 8,
+            "y": 23,
+            "z": 2
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 45,
+          "position": {
+            "x": 13,
+            "y": 11,
+            "z": 1
+          }
+        }
+      ],
+      "color": {
+        "r": 45,
+        "b": 26,
+        "g": 191
+      },
+      "center": {
+        "x": -56.25,
+        "y": 41.25,
+        "z": -180
+      },
+      "text": "LIKE",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "P",
+          "occurrence": 694,
+          "position": {
+            "x": 22,
+            "y": 4,
+            "z": 20
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 644,
+          "position": {
+            "x": 7,
+            "y": 7,
+            "z": 19
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 620,
+          "position": {
+            "x": 15,
+            "y": 26,
+            "z": 18
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 562,
+          "position": {
+            "x": 29,
+            "y": 29,
+            "z": 16
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 534,
+          "position": {
+            "x": 19,
+            "y": 29,
+            "z": 16
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 502,
+          "position": {
+            "x": 15,
+            "y": 24,
+            "z": 14
+          }
+        }
+      ],
+      "color": {
+        "r": 238,
+        "b": 56,
+        "g": 255
+      },
+      "center": {
+        "x": 42.5,
+        "y": 72.5,
+        "z": 32.5
+      },
+      "text": "PETALS",
+      "renderType": "surface",
+      "opacity": 116.78571319580078
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 160,
+          "position": {
+            "x": 23,
+            "y": 16,
+            "z": 4
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 116,
+          "position": {
+            "x": 26,
+            "y": 20,
+            "z": 3
+          }
+        }
+      ],
+      "color": {
+        "r": 104,
+        "b": 211,
+        "g": 33
+      },
+      "center": {
+        "x": 142.5,
+        "y": 45,
+        "z": -172.5
+      },
+      "text": "TO",
+      "renderType": "line",
+      "opacity": 55.35714340209961
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "K",
+          "occurrence": 672,
+          "position": {
+            "x": 4,
+            "y": 25,
+            "z": 20
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 636,
+          "position": {
+            "x": 18,
+            "y": 14,
+            "z": 19
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 598,
+          "position": {
+            "x": 16,
+            "y": 10,
+            "z": 17
+          }
+        },
+        {
+          "letter": "W",
+          "occurrence": 567,
+          "position": {
+            "x": 19,
+            "y": 13,
+            "z": 17
+          }
+        }
+      ],
+      "color": {
+        "r": 162,
+        "b": 211,
+        "g": 0
+      },
+      "center": {
+        "x": -11.25,
+        "y": 7.5,
+        "z": 48.75
+      },
+      "text": "KNOW",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 202,
+          "position": {
+            "x": 7,
+            "y": 18,
+            "z": 5
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 151,
+          "position": {
+            "x": 28,
+            "y": 29,
+            "z": 4
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 105,
+          "position": {
+            "x": 18,
+            "y": 27,
+            "z": 2
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 85,
+          "position": {
+            "x": 20,
+            "y": 9,
+            "z": 2
+          }
+        }
+      ],
+      "color": {
+        "r": 172,
+        "b": 191,
+        "g": 53
+      },
+      "center": {
+        "x": 48.75,
+        "y": 86.25,
+        "z": -176.25
+      },
+      "text": "THAT",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 723,
+          "position": {
+            "x": 28,
+            "y": 13,
+            "z": 22
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 672,
+          "position": {
+            "x": 10,
+            "y": 6,
+            "z": 20
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 630,
+          "position": {
+            "x": 16,
+            "y": 25,
+            "z": 18
+          }
+        }
+      ],
+      "color": {
+        "r": 234,
+        "b": 203,
+        "g": 4
+      },
+      "center": {
+        "x": 45,
+        "y": -5,
+        "z": 75
+      },
+      "text": "THE",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 7,
+          "center": 0
+        },
+        {
+          "a": 7,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "U",
+          "occurrence": 245,
+          "position": {
+            "x": 6,
+            "y": 23,
+            "z": 6
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 199,
+          "position": {
+            "x": 28,
+            "y": 2,
+            "z": 6
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 155,
+          "position": {
+            "x": 6,
+            "y": 7,
+            "z": 5
+          }
+        },
+        {
+          "letter": "V",
+          "occurrence": 129,
+          "position": {
+            "x": 1,
+            "y": 10,
+            "z": 4
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 73,
+          "position": {
+            "x": 22,
+            "y": 9,
+            "z": 2
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 47,
+          "position": {
+            "x": 4,
+            "y": 11,
+            "z": 1
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 9,
+          "position": {
+            "x": 21,
+            "y": 10,
+            "z": 0
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 956,
+          "position": {
+            "x": 0,
+            "y": 26,
+            "z": 28
+          }
+        }
+      ],
+      "color": {
+        "r": 47,
+        "b": 23,
+        "g": 232
+      },
+      "center": {
+        "x": -60,
+        "y": -41.25,
+        "z": -127.5
+      },
+      "text": "UNIVERSE",
+      "renderType": "surface",
+      "opacity": 147.5
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "D",
+          "occurrence": 749,
+          "position": {
+            "x": 17,
+            "y": 2,
+            "z": 22
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 721,
+          "position": {
+            "x": 15,
+            "y": 28,
+            "z": 20
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 672,
+          "position": {
+            "x": 7,
+            "y": 4,
+            "z": 20
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 647,
+          "position": {
+            "x": 25,
+            "y": 11,
+            "z": 19
+          }
+        }
+      ],
+      "color": {
+        "r": 252,
+        "b": 5,
+        "g": 215
+      },
+      "center": {
+        "x": 15,
+        "y": -56.25,
+        "z": 78.75
+      },
+      "text": "DOES",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "L",
+          "occurrence": 278,
+          "position": {
+            "x": 5,
+            "y": 1,
+            "z": 9
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 242,
+          "position": {
+            "x": 0,
+            "y": 7,
+            "z": 7
+          }
+        },
+        {
+          "letter": "V",
+          "occurrence": 210,
+          "position": {
+            "x": 3,
+            "y": 26,
+            "z": 6
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 154,
+          "position": {
+            "x": 19,
+            "y": 18,
+            "z": 4
+          }
+        }
+      ],
+      "color": {
+        "r": 41,
+        "b": 232,
+        "g": 140
+      },
+      "center": {
+        "x": -123.75,
+        "y": -30,
+        "z": -127.5
+      },
+      "text": "LOVE",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "Y",
+          "occurrence": 812,
+          "position": {
+            "x": 15,
+            "y": 17,
+            "z": 24
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 763,
+          "position": {
+            "x": 5,
+            "y": 4,
+            "z": 22
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 730,
+          "position": {
+            "x": 8,
+            "y": 25,
+            "z": 21
+          }
+        }
+      ],
+      "color": {
+        "r": 191,
+        "b": 45,
+        "g": 164
+      },
+      "center": {
+        "x": -85,
+        "y": 5,
+        "z": 110
+      },
+      "text": "YOU",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [{
+        "a": 0,
+        "b": 0,
+        "center": 0
+      }],
+      "characters": [{
+        "letter": "A",
+        "occurrence": 309,
+        "position": {
+          "x": 13,
+          "y": 4,
+          "z": 9
+        }
+      }],
+      "color": {
+        "r": 87,
+        "b": 9,
+        "g": 232
+      },
+      "center": {
+        "x": -30,
+        "y": -165,
+        "z": -90
+      },
+      "text": "A",
+      "renderType": "sphere",
+      "opacity": 40
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 848,
+          "position": {
+            "x": 23,
+            "y": 11,
+            "z": 25
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 810,
+          "position": {
+            "x": 16,
+            "y": 21,
+            "z": 24
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 756,
+          "position": {
+            "x": 8,
+            "y": 22,
+            "z": 22
+          }
+        },
+        {
+          "letter": "M",
+          "occurrence": 725,
+          "position": {
+            "x": 2,
+            "y": 3,
+            "z": 22
+          }
+        }
+      ],
+      "color": {
+        "r": 34,
+        "b": 193,
+        "g": 138
+      },
+      "center": {
+        "x": -41.25,
+        "y": -11.25,
+        "z": 123.75
+      },
+      "text": "STEM",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "F",
+          "occurrence": 297,
+          "position": {
+            "x": 7,
+            "y": 29,
+            "z": 8
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 270,
+          "position": {
+            "x": 0,
+            "y": 2,
+            "z": 8
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 228,
+          "position": {
+            "x": 11,
+            "y": 24,
+            "z": 6
+          }
+        },
+        {
+          "letter": "M",
+          "occurrence": 187,
+          "position": {
+            "x": 27,
+            "y": 21,
+            "z": 5
+          }
+        }
+      ],
+      "color": {
+        "r": 191,
+        "b": 99,
+        "g": 7
+      },
+      "center": {
+        "x": -56.25,
+        "y": 60,
+        "z": -123.75
+      },
+      "text": "FROM",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "A",
+          "occurrence": 813,
+          "position": {
+            "x": 4,
+            "y": 21,
+            "z": 24
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 787,
+          "position": {
+            "x": 10,
+            "y": 15,
+            "z": 23
+          }
+        },
+        {
+          "letter": "C",
+          "occurrence": 737,
+          "position": {
+            "x": 27,
+            "y": 4,
+            "z": 22
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 704,
+          "position": {
+            "x": 2,
+            "y": 24,
+            "z": 20
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 661,
+          "position": {
+            "x": 29,
+            "y": 19,
+            "z": 19
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 631,
+          "position": {
+            "x": 5,
+            "y": 3,
+            "z": 19
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 598,
+          "position": {
+            "x": 13,
+            "y": 12,
+            "z": 18
+          }
+        }
+      ],
+      "color": {
+        "r": 191,
+        "b": 49,
+        "g": 186
+      },
+      "center": {
+        "x": -32.14285659790039,
+        "y": -15,
+        "z": 85.71428680419922
+      },
+      "text": "ANCIENT",
+      "renderType": "surface",
+      "opacity": 132.14285278320312
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "G",
+          "occurrence": 340,
+          "position": {
+            "x": 22,
+            "y": 9,
+            "z": 9
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 312,
+          "position": {
+            "x": 0,
+            "y": 2,
+            "z": 9
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 270,
+          "position": {
+            "x": 21,
+            "y": 26,
+            "z": 7
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 237,
+          "position": {
+            "x": 19,
+            "y": 18,
+            "z": 6
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 191,
+          "position": {
+            "x": 16,
+            "y": 27,
+            "z": 5
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 142,
+          "position": {
+            "x": 26,
+            "y": 28,
+            "z": 3
+          }
+        }
+      ],
+      "color": {
+        "r": 211,
+        "b": 29,
+        "g": 157
+      },
+      "center": {
+        "x": 35,
+        "y": 50,
+        "z": -127.5
+      },
+      "text": "GROUND",
+      "renderType": "surface",
+      "opacity": 116.78571319580078
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "I",
+          "occurrence": 863,
+          "position": {
+            "x": 24,
+            "y": 16,
+            "z": 25
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 834,
+          "position": {
+            "x": 26,
+            "y": 29,
+            "z": 24
+          }
+        }
+      ],
+      "color": {
+        "r": 194,
+        "b": 211,
+        "g": 0
+      },
+      "center": {
+        "x": 150,
+        "y": 112.5,
+        "z": 142.5
+      },
+      "text": "IS",
+      "renderType": "line",
+      "opacity": 55.35714340209961
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "W",
+          "occurrence": 398,
+          "position": {
+            "x": 15,
+            "y": 0,
+            "z": 12
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 344,
+          "position": {
+            "x": 1,
+            "y": 22,
+            "z": 10
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 298,
+          "position": {
+            "x": 7,
+            "y": 26,
+            "z": 8
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 278,
+          "position": {
+            "x": 20,
+            "y": 10,
+            "z": 8
+          }
+        }
+      ],
+      "color": {
+        "r": 143,
+        "b": 232,
+        "g": 55
+      },
+      "center": {
+        "x": -63.75,
+        "y": -7.5,
+        "z": -82.5
+      },
+      "text": "WHAT",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "Y",
+          "occurrence": 921,
+          "position": {
+            "x": 8,
+            "y": 11,
+            "z": 27
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 872,
+          "position": {
+            "x": 2,
+            "y": 1,
+            "z": 26
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 839,
+          "position": {
+            "x": 4,
+            "y": 4,
+            "z": 25
+          }
+        }
+      ],
+      "color": {
+        "r": 255,
+        "b": 35,
+        "g": 240
+      },
+      "center": {
+        "x": -155,
+        "y": -145,
+        "z": 165
+      },
+      "text": "YOU",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "A",
+          "occurrence": 418,
+          "position": {
+            "x": 14,
+            "y": 15,
+            "z": 12
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 396,
+          "position": {
+            "x": 0,
+            "y": 25,
+            "z": 11
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 344,
+          "position": {
+            "x": 6,
+            "y": 17,
+            "z": 10
+          }
+        }
+      ],
+      "color": {
+        "r": 123,
+        "b": 46,
+        "g": 211
+      },
+      "center": {
+        "x": -125,
+        "y": 60,
+        "z": -60
+      },
+      "text": "ARE",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [{
+        "a": 0,
+        "b": 0,
+        "center": 0
+      }],
+      "characters": [{
+        "letter": "A",
+        "occurrence": 939,
+        "position": {
+          "x": 10,
+          "y": 20,
+          "z": 28
+        }
+      }],
+      "color": {
+        "r": 146,
+        "b": 3,
+        "g": 193
+      },
+      "center": {
+        "x": -75,
+        "y": 75,
+        "z": 195
+      },
+      "text": "A",
+      "renderType": "sphere",
+      "opacity": 40
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 478,
+          "position": {
+            "x": 22,
+            "y": 7,
+            "z": 14
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 421,
+          "position": {
+            "x": 5,
+            "y": 17,
+            "z": 12
+          }
+        },
+        {
+          "letter": "P",
+          "occurrence": 397,
+          "position": {
+            "x": 22,
+            "y": 4,
+            "z": 11
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 354,
+          "position": {
+            "x": 29,
+            "y": 5,
+            "z": 11
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 312,
+          "position": {
+            "x": 25,
+            "y": 27,
+            "z": 9
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 278,
+          "position": {
+            "x": 8,
+            "y": 26,
+            "z": 8
+          }
+        },
+        {
+          "letter": "G",
+          "occurrence": 232,
+          "position": {
+            "x": 10,
+            "y": 13,
+            "z": 6
+          }
+        }
+      ],
+      "color": {
+        "r": 12,
+        "b": 211,
+        "g": 148
+      },
+      "center": {
+        "x": 34.28571319580078,
+        "y": -12.857142448425293,
+        "z": -72.85713958740234
+      },
+      "text": "SAPLING",
+      "renderType": "surface",
+      "opacity": 132.14285278320312
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "R",
+          "occurrence": 998,
+          "position": {
+            "x": 15,
+            "y": 26,
+            "z": 29
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 956,
+          "position": {
+            "x": 29,
+            "y": 13,
+            "z": 28
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 917,
+          "position": {
+            "x": 18,
+            "y": 9,
+            "z": 27
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 883,
+          "position": {
+            "x": 20,
+            "y": 15,
+            "z": 26
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 829,
+          "position": {
+            "x": 22,
+            "y": 29,
+            "z": 24
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 789,
+          "position": {
+            "x": 10,
+            "y": 12,
+            "z": 23
+          }
+        }
+      ],
+      "color": {
+        "r": 252,
+        "b": 167,
+        "g": 75
+      },
+      "center": {
+        "x": 60,
+        "y": 35,
+        "z": 167.5
+      },
+      "text": "ROOTED",
+      "renderType": "surface",
+      "opacity": 116.78571319580078
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "I",
+          "occurrence": 451,
+          "position": {
+            "x": 6,
+            "y": 21,
+            "z": 13
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 417,
+          "position": {
+            "x": 2,
+            "y": 1,
+            "z": 13
+          }
+        }
+      ],
+      "color": {
+        "r": 60,
+        "b": 214,
+        "g": 252
+      },
+      "center": {
+        "x": -165,
+        "y": -60,
+        "z": -30
+      },
+      "text": "IN",
+      "renderType": "line",
+      "opacity": 55.35714340209961
+    },
+    {
+      "triangles": [{
+        "a": 0,
+        "b": 0,
+        "center": 0
+      }],
+      "characters": [{
+        "letter": "A",
+        "occurrence": 964,
+        "position": {
+          "x": 27,
+          "y": 7,
+          "z": 29
+        }
+      }],
+      "color": {
+        "r": 234,
+        "b": 121,
+        "g": 9
+      },
+      "center": {
+        "x": 180,
+        "y": -120,
+        "z": 210
+      },
+      "text": "A",
+      "renderType": "sphere",
+      "opacity": 40
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "H",
+          "occurrence": 492,
+          "position": {
+            "x": 7,
+            "y": 15,
+            "z": 14
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 454,
+          "position": {
+            "x": 29,
+            "y": 22,
+            "z": 13
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 425,
+          "position": {
+            "x": 25,
+            "y": 16,
+            "z": 12
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 387,
+          "position": {
+            "x": 8,
+            "y": 2,
+            "z": 12
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 343,
+          "position": {
+            "x": 10,
+            "y": 12,
+            "z": 10
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 307,
+          "position": {
+            "x": 14,
+            "y": 27,
+            "z": 8
+          }
+        },
+        {
+          "letter": "Y",
+          "occurrence": 275,
+          "position": {
+            "x": 0,
+            "y": 20,
+            "z": 8
+          }
+        }
+      ],
+      "color": {
+        "r": 60,
+        "b": 80,
+        "g": 232
+      },
+      "center": {
+        "x": -25.714284896850586,
+        "y": 19.285715103149414,
+        "z": -60
+      },
+      "text": "HISTORY",
+      "renderType": "surface",
+      "opacity": 132.14285278320312
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 25,
+          "position": {
+            "x": 11,
+            "y": 22,
+            "z": 0
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 974,
+          "position": {
+            "x": 4,
+            "y": 9,
+            "z": 29
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 928,
+          "position": {
+            "x": 25,
+            "y": 8,
+            "z": 28
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 908,
+          "position": {
+            "x": 13,
+            "y": 9,
+            "z": 27
+          }
+        }
+      ],
+      "color": {
+        "r": 214,
+        "b": 34,
+        "g": 70
+      },
+      "center": {
+        "x": -26.25,
+        "y": -45,
+        "z": 90
+      },
+      "text": "THAT",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 546,
+          "position": {
+            "x": 12,
+            "y": 29,
+            "z": 16
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 495,
+          "position": {
+            "x": 9,
+            "y": 17,
+            "z": 14
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 453,
+          "position": {
+            "x": 7,
+            "y": 20,
+            "z": 13
+          }
+        }
+      ],
+      "color": {
+        "r": 252,
+        "b": 114,
+        "g": 55
+      },
+      "center": {
+        "x": -85,
+        "y": 105,
+        "z": -10
+      },
+      "text": "THE",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 66,
+          "position": {
+            "x": 24,
+            "y": 29,
+            "z": 1
+          }
+        },
+        {
+          "letter": "C",
+          "occurrence": 11,
+          "position": {
+            "x": 27,
+            "y": 8,
+            "z": 0
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 970,
+          "position": {
+            "x": 19,
+            "y": 12,
+            "z": 29
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 948,
+          "position": {
+            "x": 28,
+            "y": 6,
+            "z": 28
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 896,
+          "position": {
+            "x": 4,
+            "y": 23,
+            "z": 26
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 856,
+          "position": {
+            "x": 24,
+            "y": 13,
+            "z": 25
+          }
+        }
+      ],
+      "color": {
+        "r": 20,
+        "b": 252,
+        "g": 47
+      },
+      "center": {
+        "x": 90,
+        "y": 2.5,
+        "z": 47.5
+      },
+      "text": "SCARED",
+      "renderType": "surface",
+      "opacity": 116.78571319580078
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "P",
+          "occurrence": 584,
+          "position": {
+            "x": 8,
+            "y": 8,
+            "z": 17
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 530,
+          "position": {
+            "x": 17,
+            "y": 25,
+            "z": 15
+          }
+        },
+        {
+          "letter": "V",
+          "occurrence": 512,
+          "position": {
+            "x": 2,
+            "y": 7,
+            "z": 15
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 456,
+          "position": {
+            "x": 13,
+            "y": 21,
+            "z": 13
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 416,
+          "position": {
+            "x": 18,
+            "y": 4,
+            "z": 12
+          }
+        }
+      ],
+      "color": {
+        "r": 16,
+        "b": 201,
+        "g": 211
+      },
+      "center": {
+        "x": -51,
+        "y": -30,
+        "z": -9
+      },
+      "text": "PAVED",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "O",
+          "occurrence": 104,
+          "position": {
+            "x": 20,
+            "y": 10,
+            "z": 3
+          }
+        },
+        {
+          "letter": "V",
+          "occurrence": 72,
+          "position": {
+            "x": 16,
+            "y": 5,
+            "z": 2
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 16,
+          "position": {
+            "x": 5,
+            "y": 14,
+            "z": 0
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 990,
+          "position": {
+            "x": 5,
+            "y": 19,
+            "z": 29
+          }
+        }
+      ],
+      "color": {
+        "r": 232,
+        "b": 13,
+        "g": 21
+      },
+      "center": {
+        "x": -52.5,
+        "y": -45,
+        "z": -97.5
+      },
+      "text": "OVER",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 7,
+          "center": 0
+        },
+        {
+          "a": 7,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "B",
+          "occurrence": 612,
+          "position": {
+            "x": 1,
+            "y": 25,
+            "z": 17
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 583,
+          "position": {
+            "x": 18,
+            "y": 7,
+            "z": 18
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 547,
+          "position": {
+            "x": 26,
+            "y": 26,
+            "z": 15
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 508,
+          "position": {
+            "x": 12,
+            "y": 24,
+            "z": 14
+          }
+        },
+        {
+          "letter": "M",
+          "occurrence": 467,
+          "position": {
+            "x": 11,
+            "y": 27,
+            "z": 13
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 424,
+          "position": {
+            "x": 25,
+            "y": 25,
+            "z": 12
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 390,
+          "position": {
+            "x": 1,
+            "y": 7,
+            "z": 12
+          }
+        },
+        {
+          "letter": "G",
+          "occurrence": 344,
+          "position": {
+            "x": 24,
+            "y": 10,
+            "z": 9
+          }
+        }
+      ],
+      "color": {
+        "r": 32,
+        "b": 132,
+        "g": 232
+      },
+      "center": {
+        "x": -3.75,
+        "y": 58.125,
+        "z": -18.75
+      },
+      "text": "BLOOMING",
+      "renderType": "surface",
+      "opacity": 147.5
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "I",
+          "occurrence": 140,
+          "position": {
+            "x": 13,
+            "y": 24,
+            "z": 4
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 106,
+          "position": {
+            "x": 3,
+            "y": 6,
+            "z": 3
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 73,
+          "position": {
+            "x": 3,
+            "y": 3,
+            "z": 2
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 29,
+          "position": {
+            "x": 11,
+            "y": 25,
+            "z": 0
+          }
+        }
+      ],
+      "color": {
+        "r": 149,
+        "b": 22,
+        "g": 191
+      },
+      "center": {
+        "x": -112.5,
+        "y": -7.5,
+        "z": -191.25
+      },
+      "text": "INTO",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [{
+        "a": 0,
+        "b": 0,
+        "center": 0
+      }],
+      "characters": [{
+        "letter": "A",
+        "occurrence": 594,
+        "position": {
+          "x": 4,
+          "y": 26,
+          "z": 17
+        }
+      }],
+      "color": {
+        "r": 234,
+        "b": 225,
+        "g": 56
+      },
+      "center": {
+        "x": -165,
+        "y": 165,
+        "z": 30
+      },
+      "text": "A",
+      "renderType": "sphere",
+      "opacity": 40
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "B",
+          "occurrence": 116,
+          "position": {
+            "x": 21,
+            "y": 10,
+            "z": 3
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 80,
+          "position": {
+            "x": 25,
+            "y": 12,
+            "z": 2
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 45,
+          "position": {
+            "x": 2,
+            "y": 18,
+            "z": 1
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 11,
+          "position": {
+            "x": 14,
+            "y": 16,
+            "z": 0
+          }
+        },
+        {
+          "letter": "G",
+          "occurrence": 965,
+          "position": {
+            "x": 4,
+            "y": 22,
+            "z": 28
+          }
+        }
+      ],
+      "color": {
+        "r": 232,
+        "b": 51,
+        "g": 201
+      },
+      "center": {
+        "x": -27,
+        "y": 9,
+        "z": -123
+      },
+      "text": "BEING",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 655,
+          "position": {
+            "x": 28,
+            "y": 0,
+            "z": 20
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 604,
+          "position": {
+            "x": 22,
+            "y": 27,
+            "z": 17
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 558,
+          "position": {
+            "x": 26,
+            "y": 26,
+            "z": 16
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 538,
+          "position": {
+            "x": 2,
+            "y": 22,
+            "z": 16
+          }
+        }
+      ],
+      "color": {
+        "r": 80,
+        "b": 50,
+        "g": 211
+      },
+      "center": {
+        "x": 67.5,
+        "y": 56.25,
+        "z": 33.75
+      },
+      "text": "THAT",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "C",
+          "occurrence": 159,
+          "position": {
+            "x": 8,
+            "y": 16,
+            "z": 4
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 118,
+          "position": {
+            "x": 23,
+            "y": 10,
+            "z": 3
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 92,
+          "position": {
+            "x": 13,
+            "y": 26,
+            "z": 2
+          }
+        }
+      ],
+      "color": {
+        "r": 214,
+        "b": 188,
+        "g": 42
+      },
+      "center": {
+        "x": -5,
+        "y": 35,
+        "z": -180
+      },
+      "text": "CAN",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "D",
+          "occurrence": 681,
+          "position": {
+            "x": 0,
+            "y": 5,
+            "z": 20
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 656,
+          "position": {
+            "x": 1,
+            "y": 21,
+            "z": 19
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 608,
+          "position": {
+            "x": 8,
+            "y": 6,
+            "z": 18
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 574,
+          "position": {
+            "x": 16,
+            "y": 20,
+            "z": 17
+          }
+        },
+        {
+          "letter": "K",
+          "occurrence": 532,
+          "position": {
+            "x": 12,
+            "y": 24,
+            "z": 16
+          }
+        }
+      ],
+      "color": {
+        "r": 42,
+        "b": 183,
+        "g": 234
+      },
+      "center": {
+        "x": -114,
+        "y": 3,
+        "z": 45
+      },
+      "text": "DRINK",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "F",
+          "occurrence": 204,
+          "position": {
+            "x": 12,
+            "y": 6,
+            "z": 6
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 177,
+          "position": {
+            "x": 4,
+            "y": 6,
+            "z": 5
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 135,
+          "position": {
+            "x": 11,
+            "y": 7,
+            "z": 4
+          }
+        },
+        {
+          "letter": "M",
+          "occurrence": 94,
+          "position": {
+            "x": 28,
+            "y": 23,
+            "z": 2
+          }
+        }
+      ],
+      "color": {
+        "r": 20,
+        "b": 149,
+        "g": 255
+      },
+      "center": {
+        "x": -18.75,
+        "y": -67.5,
+        "z": -161.25
+      },
+      "text": "FROM",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 739,
+          "position": {
+            "x": 8,
+            "y": 26,
+            "z": 22
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 688,
+          "position": {
+            "x": 10,
+            "y": 18,
+            "z": 20
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 646,
+          "position": {
+            "x": 28,
+            "y": 8,
+            "z": 19
+          }
+        }
+      ],
+      "color": {
+        "r": 25,
+        "b": 255,
+        "g": 132
+      },
+      "center": {
+        "x": 5,
+        "y": 35,
+        "z": 80
+      },
+      "text": "THE",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 259,
+          "position": {
+            "x": 27,
+            "y": 8,
+            "z": 7
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 222,
+          "position": {
+            "x": 12,
+            "y": 5,
+            "z": 6
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 176,
+          "position": {
+            "x": 28,
+            "y": 11,
+            "z": 5
+          }
+        }
+      ],
+      "color": {
+        "r": 232,
+        "b": 187,
+        "g": 27
+      },
+      "center": {
+        "x": 110,
+        "y": -105,
+        "z": -135
+      },
+      "text": "SUN",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [{
+        "a": 0,
+        "b": 0,
+        "center": 0
+      }],
+      "characters": [{
+        "letter": "A",
+        "occurrence": 762,
+        "position": {
+          "x": 28,
+          "y": 29,
+          "z": 22
+        }
+      }],
+      "color": {
+        "r": 191,
+        "b": 154,
+        "g": 53
+      },
+      "center": {
+        "x": 195,
+        "y": 210,
+        "z": 105
+      },
+      "text": "A",
+      "renderType": "sphere",
+      "opacity": 40
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 302,
+          "position": {
+            "x": 8,
+            "y": 1,
+            "z": 9
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 244,
+          "position": {
+            "x": 14,
+            "y": 13,
+            "z": 7
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 223,
+          "position": {
+            "x": 3,
+            "y": 7,
+            "z": 6
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 185,
+          "position": {
+            "x": 28,
+            "y": 5,
+            "z": 5
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 131,
+          "position": {
+            "x": 17,
+            "y": 25,
+            "z": 3
+          }
+        }
+      ],
+      "color": {
+        "r": 3,
+        "b": 171,
+        "g": 193
+      },
+      "center": {
+        "x": -15,
+        "y": -72,
+        "z": -135
+      },
+      "text": "TASTE",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "Y",
+          "occurrence": 769,
+          "position": {
+            "x": 18,
+            "y": 7,
+            "z": 23
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 720,
+          "position": {
+            "x": 23,
+            "y": 20,
+            "z": 20
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 687,
+          "position": {
+            "x": 15,
+            "y": 11,
+            "z": 20
+          }
+        },
+        {
+          "letter": "V",
+          "occurrence": 649,
+          "position": {
+            "x": 7,
+            "y": 20,
+            "z": 19
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 593,
+          "position": {
+            "x": 4,
+            "y": 17,
+            "z": 17
+          }
+        }
+      ],
+      "color": {
+        "r": 60,
+        "b": 252,
+        "g": 70
+      },
+      "center": {
+        "x": -24,
+        "y": 0,
+        "z": 72
+      },
+      "text": "YOUVE",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 7,
+          "center": 0
+        },
+        {
+          "a": 7,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "A",
+          "occurrence": 266,
+          "position": {
+            "x": 2,
+            "y": 27,
+            "z": 7
+          }
+        },
+        {
+          "letter": "C",
+          "occurrence": 229,
+          "position": {
+            "x": 18,
+            "y": 6,
+            "z": 6
+          }
+        },
+        {
+          "letter": "Q",
+          "occurrence": 204,
+          "position": {
+            "x": 18,
+            "y": 7,
+            "z": 6
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 169,
+          "position": {
+            "x": 28,
+            "y": 10,
+            "z": 4
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 118,
+          "position": {
+            "x": 14,
+            "y": 5,
+            "z": 4
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 88,
+          "position": {
+            "x": 24,
+            "y": 12,
+            "z": 2
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 36,
+          "position": {
+            "x": 0,
+            "y": 2,
+            "z": 1
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 996,
+          "position": {
+            "x": 22,
+            "y": 24,
+            "z": 29
+          }
+        }
+      ],
+      "color": {
+        "r": 11,
+        "b": 191,
+        "g": 32
+      },
+      "center": {
+        "x": 11.25,
+        "y": -50.625,
+        "z": -114.375
+      },
+      "text": "ACQUIRED",
+      "renderType": "surface",
+      "opacity": 147.5
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 6,
+          "center": 0
+        },
+        {
+          "a": 6,
+          "b": 7,
+          "center": 0
+        },
+        {
+          "a": 7,
+          "b": 8,
+          "center": 0
+        },
+        {
+          "a": 8,
+          "b": 9,
+          "center": 0
+        },
+        {
+          "a": 9,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 805,
+          "position": {
+            "x": 18,
+            "y": 3,
+            "z": 24
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 748,
+          "position": {
+            "x": 22,
+            "y": 14,
+            "z": 22
+          }
+        },
+        {
+          "letter": "C",
+          "occurrence": 711,
+          "position": {
+            "x": 3,
+            "y": 5,
+            "z": 21
+          }
+        },
+        {
+          "letter": "C",
+          "occurrence": 672,
+          "position": {
+            "x": 29,
+            "y": 7,
+            "z": 20
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 638,
+          "position": {
+            "x": 19,
+            "y": 28,
+            "z": 18
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 592,
+          "position": {
+            "x": 19,
+            "y": 23,
+            "z": 17
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 570,
+          "position": {
+            "x": 25,
+            "y": 11,
+            "z": 17
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 522,
+          "position": {
+            "x": 15,
+            "y": 14,
+            "z": 15
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 488,
+          "position": {
+            "x": 0,
+            "y": 6,
+            "z": 15
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 440,
+          "position": {
+            "x": 23,
+            "y": 13,
+            "z": 13
+          }
+        }
+      ],
+      "color": {
+        "r": 191,
+        "b": 42,
+        "g": 47
+      },
+      "center": {
+        "x": 34.5,
+        "y": -39,
+        "z": 48
+      },
+      "text": "SACCHARINE",
+      "renderType": "surface",
+      "opacity": 178.2142791748047
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "A",
+          "occurrence": 308,
+          "position": {
+            "x": 9,
+            "y": 4,
+            "z": 9
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 282,
+          "position": {
+            "x": 21,
+            "y": 28,
+            "z": 8
+          }
+        },
+        {
+          "letter": "D",
+          "occurrence": 233,
+          "position": {
+            "x": 17,
+            "y": 21,
+            "z": 6
+          }
+        }
+      ],
+      "color": {
+        "r": 211,
+        "b": 33,
+        "g": 69
+      },
+      "center": {
+        "x": 10,
+        "y": 40,
+        "z": -110
+      },
+      "text": "AND",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "C",
+          "occurrence": 831,
+          "position": {
+            "x": 1,
+            "y": 11,
+            "z": 25
+          }
+        },
+        {
+          "letter": "L",
+          "occurrence": 801,
+          "position": {
+            "x": 28,
+            "y": 15,
+            "z": 24
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 755,
+          "position": {
+            "x": 20,
+            "y": 21,
+            "z": 22
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 712,
+          "position": {
+            "x": 16,
+            "y": 8,
+            "z": 21
+          }
+        },
+        {
+          "letter": "N",
+          "occurrence": 686,
+          "position": {
+            "x": 7,
+            "y": 2,
+            "z": 21
+          }
+        }
+      ],
+      "color": {
+        "r": 50,
+        "b": 114,
+        "g": 193
+      },
+      "center": {
+        "x": -9,
+        "y": -54,
+        "z": 114
+      },
+      "text": "CLEAN",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [{
+        "a": 0,
+        "b": 0,
+        "center": 0
+      }],
+      "characters": [{
+        "letter": "A",
+        "occurrence": 350,
+        "position": {
+          "x": 11,
+          "y": 18,
+          "z": 10
+        }
+      }],
+      "color": {
+        "r": 171,
+        "b": 255,
+        "g": 5
+      },
+      "center": {
+        "x": -60,
+        "y": 45,
+        "z": -75
+      },
+      "text": "A",
+      "renderType": "sphere",
+      "opacity": 40
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 5,
+          "center": 0
+        },
+        {
+          "a": 5,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "N",
+          "occurrence": 884,
+          "position": {
+            "x": 8,
+            "y": 16,
+            "z": 26
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 836,
+          "position": {
+            "x": 29,
+            "y": 7,
+            "z": 25
+          }
+        },
+        {
+          "letter": "C",
+          "occurrence": 795,
+          "position": {
+            "x": 11,
+            "y": 9,
+            "z": 24
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 773,
+          "position": {
+            "x": 19,
+            "y": 20,
+            "z": 23
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 715,
+          "position": {
+            "x": 21,
+            "y": 14,
+            "z": 21
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 693,
+          "position": {
+            "x": 4,
+            "y": 21,
+            "z": 20
+          }
+        }
+      ],
+      "color": {
+        "r": 141,
+        "b": 234,
+        "g": 65
+      },
+      "center": {
+        "x": 5,
+        "y": -7.5,
+        "z": 122.5
+      },
+      "text": "NECTAR",
+      "renderType": "surface",
+      "opacity": 116.78571319580078
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 411,
+          "position": {
+            "x": 15,
+            "y": 20,
+            "z": 12
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 360,
+          "position": {
+            "x": 13,
+            "y": 7,
+            "z": 11
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 314,
+          "position": {
+            "x": 22,
+            "y": 8,
+            "z": 9
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 294,
+          "position": {
+            "x": 1,
+            "y": 26,
+            "z": 8
+          }
+        }
+      ],
+      "color": {
+        "r": 214,
+        "b": 8,
+        "g": 15
+      },
+      "center": {
+        "x": -33.75,
+        "y": 3.75,
+        "z": -75
+      },
+      "text": "THAT",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "Y",
+          "occurrence": 937,
+          "position": {
+            "x": 4,
+            "y": 23,
+            "z": 27
+          }
+        },
+        {
+          "letter": "O",
+          "occurrence": 888,
+          "position": {
+            "x": 16,
+            "y": 21,
+            "z": 26
+          }
+        },
+        {
+          "letter": "U",
+          "occurrence": 855,
+          "position": {
+            "x": 19,
+            "y": 19,
+            "z": 25
+          }
+        }
+      ],
+      "color": {
+        "r": 191,
+        "b": 38,
+        "g": 50
+      },
+      "center": {
+        "x": -30,
+        "y": 90,
+        "z": 165
+      },
+      "text": "YOU",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 4,
+          "center": 0
+        },
+        {
+          "a": 4,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "S",
+          "occurrence": 452,
+          "position": {
+            "x": 22,
+            "y": 9,
+            "z": 13
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 402,
+          "position": {
+            "x": 21,
+            "y": 4,
+            "z": 12
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 356,
+          "position": {
+            "x": 14,
+            "y": 27,
+            "z": 10
+          }
+        },
+        {
+          "letter": "R",
+          "occurrence": 334,
+          "position": {
+            "x": 29,
+            "y": 24,
+            "z": 9
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 282,
+          "position": {
+            "x": 13,
+            "y": 25,
+            "z": 8
+          }
+        }
+      ],
+      "color": {
+        "r": 211,
+        "b": 185,
+        "g": 12
+      },
+      "center": {
+        "x": 72,
+        "y": 42,
+        "z": -69
+      },
+      "text": "SHARE",
+      "renderType": "surface",
+      "opacity": 101.42857360839844
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "W",
+          "occurrence": 918,
+          "position": {
+            "x": 24,
+            "y": 6,
+            "z": 27
+          }
+        },
+        {
+          "letter": "I",
+          "occurrence": 865,
+          "position": {
+            "x": 12,
+            "y": 19,
+            "z": 25
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 837,
+          "position": {
+            "x": 4,
+            "y": 14,
+            "z": 25
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 786,
+          "position": {
+            "x": 16,
+            "y": 9,
+            "z": 23
+          }
+        }
+      ],
+      "color": {
+        "r": 65,
+        "b": 234,
+        "g": 164
+      },
+      "center": {
+        "x": -15,
+        "y": -45,
+        "z": 150
+      },
+      "text": "WITH",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "T",
+          "occurrence": 436,
+          "position": {
+            "x": 21,
+            "y": 18,
+            "z": 13
+          }
+        },
+        {
+          "letter": "H",
+          "occurrence": 385,
+          "position": {
+            "x": 23,
+            "y": 23,
+            "z": 11
+          }
+        },
+        {
+          "letter": "E",
+          "occurrence": 343,
+          "position": {
+            "x": 10,
+            "y": 16,
+            "z": 10
+          }
+        }
+      ],
+      "color": {
+        "r": 37,
+        "b": 95,
+        "g": 232
+      },
+      "center": {
+        "x": 45,
+        "y": 60,
+        "z": -55
+      },
+      "text": "THE",
+      "renderType": "surface",
+      "opacity": 70.71428680419922
+    },
+    {
+      "triangles": [
+        {
+          "a": 0,
+          "b": 1,
+          "center": 0
+        },
+        {
+          "a": 1,
+          "b": 2,
+          "center": 0
+        },
+        {
+          "a": 2,
+          "b": 3,
+          "center": 0
+        },
+        {
+          "a": 3,
+          "b": 0,
+          "center": 0
+        }
+      ],
+      "characters": [
+        {
+          "letter": "P",
+          "occurrence": 953,
+          "position": {
+            "x": 14,
+            "y": 13,
+            "z": 28
+          }
+        },
+        {
+          "letter": "A",
+          "occurrence": 899,
+          "position": {
+            "x": 14,
+            "y": 16,
+            "z": 27
+          }
+        },
+        {
+          "letter": "S",
+          "occurrence": 878,
+          "position": {
+            "x": 26,
+            "y": 11,
+            "z": 26
+          }
+        },
+        {
+          "letter": "T",
+          "occurrence": 840,
+          "position": {
+            "x": 23,
+            "y": 15,
+            "z": 25
+          }
+        }
+      ],
+      "color": {
+        "r": 191,
+        "b": 164,
+        "g": 15
+      },
+      "center": {
+        "x": 63.75,
+        "y": -18.75,
+        "z": 172.5
+      },
+      "text": "PAST",
+      "renderType": "surface",
+      "opacity": 86.07142639160156
+    }
+  ],
+  "text": "Abandoned roots can still produce a garden.\nCracking through asphalt and salted snow,\nThey\u2019ll grow taller than the mountain tops.\nTaller than the satellites that blanket the earth,\nAnd the hegemonies you\u2019ve learned to respect. \nPluck the stars like petals to know that the universe does love you. \nA stem from ancient ground is what you are. \nA sapling. \nRooted in a history that the scared paved over, \nBlooming into a being that can drink from the sun. \nA taste you\u2019ve acquired. \nSaccharine and clean. \nA nectar that you share with the past.",
+  "cube": {
+    "spacing": 15,
+    "size": 30
+  },
+  "title": "ABANDONED_ROOTS",
+  "version": "2.0",
+  "key": "ROOTS",
+  "encodedText": "ABANDONED ROOTS CAN STILL PRODUCE A GARDEN CRACKING THROUGH ASPHALT AND SALTED SNOW THEYLL GROW TALLER THAN THE MOUNTAIN TOPS TALLER THAN THE SATELLITES THAT BLANKET THE EARTH AND THE HEGEMONIES YOUVE LEARNED TO RESPECT PLUCK THE STARS LIKE PETALS TO KNOW THAT THE UNIVERSE DOES LOVE YOU A STEM FROM ANCIENT GROUND IS WHAT YOU ARE A SAPLING ROOTED IN A HISTORY THAT THE SCARED PAVED OVER BLOOMING INTO A BEING THAT CAN DRINK FROM THE SUN A TASTE YOUVE ACQUIRED SACCHARINE AND CLEAN A NECTAR THAT YOU SHARE WITH THE PAST"
+}
