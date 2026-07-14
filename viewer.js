@@ -290,7 +290,7 @@ controls.update();
 
 controls.enableRotate = false;
 controls.enablePan = false;
-controls.enableZoom = false;
+controls.enableZoom = true;
 
 renderer.domElement.addEventListener(
   "pointerdown",
